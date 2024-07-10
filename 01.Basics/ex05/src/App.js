@@ -1,6 +1,7 @@
 function App() {
-    const App = document.createElement('div');
-    App.textContent = "Hello World";
+    // const App = document.createElement('div');
+    // App.textContent = "Hello World";
+    React.createElement('div', null, 'Hello World');
     
     return App;
 }
