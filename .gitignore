@@ -1,0 +1,10 @@
+## maven
+**/target
+**/build
+**/out
+
+## npm
+**/node_modules
+
+#
+.DS_Store
