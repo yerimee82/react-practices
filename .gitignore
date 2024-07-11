@@ -6,5 +6,5 @@
 ## npm
 **/node_modules
 
-#
-.DS_Store
+## mac
+**/.DS_Store
